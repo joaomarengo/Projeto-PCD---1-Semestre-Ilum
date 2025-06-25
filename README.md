@@ -60,7 +60,7 @@ Para tornar a modelagem mais realista, foram incluídos dois fatores importantes
 
 A equação completa que descreve essa função é:
 
-![img](images/equacao_cinetica_enzimatica.png "Equação - Cinética Enzimática")
+![img](images/equacao_cinetica_pH_temperatura_varia.png)
 
 Em particular, o termo $e^{\frac{\Delta H}{R T}}$ representa a dependência da constante de Michaelis-Menten $K_m$ com a temperatura, refletindo mudanças na afinidade da enzima pelo substrato conforme a temperatura varia.
 
