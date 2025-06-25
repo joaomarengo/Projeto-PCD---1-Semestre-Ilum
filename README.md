@@ -68,7 +68,7 @@ Essa função serve como base computacional para gerar os valores que alimentam 
 
 ## 3. Implementação do Código
 
-A implementação completa da aplicação encontra-se no arquivo [notebook_simulacao.ipynb](notebook_simulacao.ipynb), que funciona como um guia explicativo passo a passo do desenvolvimento do projeto. Nele, encontra-se todas as informações contidas neste README e, adicionalmente, cada etapa do código, apresentadas com comentários e descrições que facilitam a compreensão do funcionamento da simulação.
+A implementação completa da aplicação encontra-se no arquivo [notebook_projeto.ipynb](notebook_projeto.ipynb), que funciona como um guia explicativo passo a passo do desenvolvimento do projeto. Nele, encontra-se todas as informações contidas neste README e, adicionalmente, cada etapa do código, apresentadas com comentários e descrições que facilitam a compreensão do funcionamento da simulação.
 
 Esta seção, no notebook, está dividida nas seguintes seções:
 
